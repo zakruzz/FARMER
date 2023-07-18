@@ -1,0 +1,33 @@
+.bg-login-image {
+  background: url('BapakePetani.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.marginTop {
+  margin-top: 200px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;400;700&display=swap');
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #e0e0e0;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 100vh;
+  min-width: 100vh;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.form-rounded {
+  border-radius: 1em;
+}

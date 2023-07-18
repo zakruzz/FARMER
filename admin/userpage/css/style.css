@@ -1,0 +1,9 @@
+.bg-login-image {
+  background: url('BapakePetani.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.marginTop {
+  margin-top: 200px;
+}
